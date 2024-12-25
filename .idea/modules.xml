@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos-api/Kronos.kronos-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos-api/Kronos.kronos-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos-launcher/Kronos.kronos-launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos-launcher/Kronos.kronos-launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos-server/Kronos.kronos-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos-server/Kronos.kronos-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos-update-server/Kronos.kronos-update-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos-update-server/Kronos.kronos-update-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos-webhooks/Kronos.kronos-webhooks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos-webhooks/Kronos.kronos-webhooks.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/http-api/OpenOSRS.http-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/http-api/OpenOSRS.http-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/injector-plugin/OpenOSRS.injector-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/injector-plugin/OpenOSRS.injector-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runelite-api/OpenOSRS.runelite-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/runelite-api/OpenOSRS.runelite-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runelite-client/OpenOSRS.runelite-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/runelite-client/OpenOSRS.runelite-client.main.iml" />
+    </modules>
+  </component>
+</project>

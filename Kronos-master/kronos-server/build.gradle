@@ -24,7 +24,6 @@ dependencies {
     implementation group: 'com.ea.agentloader', name: 'ea-agent-loader', version: '1.0.3'
     // https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml
     implementation group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-yaml', version: '2.11.0'
-
 }
 
 application {

@@ -5,7 +5,7 @@ buildscript {
     }
 
     dependencies {
-        classpath group: 'org.db4j', name: 'kilim', version: '2.0.2'
+        classpath group: 'org.db4j', name: 'kilim', version: '2.0.2-jdk7'
     }
 
 }
@@ -67,7 +67,7 @@ subprojects {
         implementation group: 'io.netty', name: 'netty-all', version:'4.1.17.Final'
         implementation group: 'com.googlecode.json-simple', name: 'json-simple', version:'1.1.1'
         implementation 'com.zaxxer:HikariCP:2.7.3'
-
+        implementation 'org.apache.commons:commons-lang3:3.12.0'
         testImplementation 'junit:junit:4.12'
         implementation group: 'org.json', name: 'json', version: '20190722'
 
@@ -78,6 +78,10 @@ subprojects {
         implementation group: 'com.j256.two-factor-auth', name: 'two-factor-auth', version: '1.0'//
         // https://mvnrepository.com/artifact/net.sf.jopt-simple/jopt-simple
         implementation group: 'net.sf.jopt-simple', name: 'jopt-simple', version: '5.0.4'
+
+        implementation group: 'org.db4j', name: 'kilim', version: '2.0.2-jdk7'
+        implementation 'com.google.api-client:google-api-client:1.31.5'
+        implementation('com.google.guava:guava:30.1.1-jre')
 
     }
     tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
